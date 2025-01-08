@@ -25,4 +25,5 @@ Ensure you have the following installed:
 ### 2. Installation
 
 1. Clone this repository or download the source code.
-   ```bash https://github.com/Kawsikan29/BlogApplication 
+   ```bash
+    https://github.com/Kawsikan29/BlogApplication 
